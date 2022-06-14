@@ -1,0 +1,26 @@
+{
+  "short_name": "Client Portal",
+  "name": "Unite Us Client Portal",
+  "icons": [
+    {
+      "src": "icons/favicon.svg",
+      "sizes": "150x150",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "icons/favicon.png",
+      "sizes": "156x156",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "description": "Unite Us client portal self-service application"
+}

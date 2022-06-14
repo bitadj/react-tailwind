@@ -1,0 +1,164 @@
+{
+  "data": {
+    "_meta": { "_source": "cache", "_type": "contact" },
+    "addresses": [
+      {
+        "_meta": { "_source": "cache", "_type": "contacts_address" },
+        "address_type": "home",
+        "city": "New York",
+        "country": "United States of America",
+        "county": "New York County",
+        "id": "096422d6-64ad-456a-aa55-2ba3abbbe1f1",
+        "is_mailing_address": false,
+        "lat_lng": [40.7269642, -73.986114],
+        "line_1": "111 1st Ave",
+        "line_2": "",
+        "postal_code": "11107",
+        "state": "NY"
+      }
+    ],
+    "avatar_url": "https://www.gravatar.com/avatar/cd9e459ea708a948d5c2f5a6ca8838cf?r=g\u0026s=100\u0026d=https%3A%2F%2Fsmile.uniteus.io%2Ff3eac722-d945-427d-864a-8a1e3127bf17%2F100%2FWH.png",
+    "care_coordinator": null,
+    "citizenship": "undisclosed",
+    "consent": {
+      "request": { "request_type": "attestation", "sent_to": "attestation" },
+      "response": {
+        "created_at": 1627051825,
+        "document": null,
+        "image": "https://cdn-public-v3-uudev.s3.amazonaws.com/consents%3A%3Aresponses%3A%3Aaccepted/c14ab79f-5c16-44e9-a051-ecd046531170/pdf/consent-c14ab79f-5c16-44e9-a051-ecd046531170.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAJUF24NAONM7GRBFQ%2F20220613%2Fus-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20220613T221638Z\u0026X-Amz-Expires=3900\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Signature=be9af02b048c4784abff836dfecaac123cb2607cacedf09f126842a231578b91",
+        "updated_at": null
+      },
+      "status": "accepted",
+      "updated_at": 1627051825
+    },
+    "consent_request_count": 0,
+    "created_at": 1627051804,
+    "created_by": {
+      "_meta": { "_source": "cache", "_type": "user" },
+      "avatar_url": null,
+      "confirmed_at": 1477668863,
+      "created_at": 1477667115,
+      "current_sign_in_at": null,
+      "email": "tooth@fairy.com",
+      "first_name": "Tooth",
+      "full_name": "Tooth Fairy",
+      "id": "5c8348bc-9ae1-4fd0-93ce-daf0e3826e4c",
+      "last_name": "Fairy",
+      "last_name_first_name": "Fairy, Tooth",
+      "timezone": "UTC",
+      "updated_at": 1617131106,
+      "work_title": null
+    },
+    "date_of_birth": -631152000,
+    "email_addresses": [],
+    "ethnicity": "hispanic-or-latino",
+    "first_name": "Winnie",
+    "full_name": "Winnie Hess",
+    "gender": "female",
+    "gross_monthly_income": null,
+    "has_military": true,
+    "household": [
+      {
+        "date_of_birth": -631152000,
+        "first_name": "Winnie",
+        "full_name": "Winnie Hess",
+        "gender": "female",
+        "id": "f3eac722-d945-427d-864a-8a1e3127bf17",
+        "last_name": "Hess",
+        "last_name_first_name": "Hess, Winnie",
+        "middle_name_initial": "Q",
+        "preferred_first_name": null,
+        "relation_to_primary": "self",
+        "suffix": null,
+        "title": "Dr."
+      }
+    ],
+    "household_count": {
+      "adults": 0,
+      "children": 0,
+      "static_count": true,
+      "total": 1
+    },
+    "id": "f3eac722-d945-427d-864a-8a1e3127bf17",
+    "insurance_ids": [
+      {
+        "id": "3a8c4554-56c9-4a3d-8599-8737c8174365",
+        "insurance_id": "4u32943902984",
+        "insurance_state": "TX",
+        "insurance_type": "medicaid"
+      }
+    ],
+    "intake_id": "",
+    "last_consent_request_sent_to": "attestation",
+    "last_consent_requested_at": 1627051824,
+    "last_name": "Hess",
+    "last_name_first_name": "Hess, Winnie",
+    "marital_status": "widowed",
+    "middle_name_initial": "Q",
+    "military": {
+      "_meta": { "_source": "cache", "_type": "contacts_military" },
+      "affiliation": "military_member_or_veteran",
+      "at_least_one_day_active_duty": "yes",
+      "branch": "marines",
+      "current_status": "retiree",
+      "currently_transitioning": "no",
+      "deployed": "yes",
+      "deployment_ends_at": null,
+      "deployment_starts_at": null,
+      "discharge_type": "",
+      "discharged_due_to_disability": "yes",
+      "entry_date": null,
+      "exit_date": null,
+      "proof_of_veteran_status": "yes",
+      "proof_type": "drivers_license",
+      "service_connected_disability": "yes",
+      "service_connected_disability_rating": "30",
+      "service_era": "vietnam"
+    },
+    "nicknames": [],
+    "permissions": {
+      "can_delete": { "authorization": false, "message": [] },
+      "can_edit": { "authorization": true, "message": [] },
+      "can_export": { "authorization": true, "message": [] },
+      "can_view": { "authorization": true, "message": [] }
+    },
+    "phone_numbers": [
+      {
+        "_meta": { "_source": "cache", "_type": "contacts_phonenumber" },
+        "acceptable_communication_types": [],
+        "can_sms": false,
+        "country_code": "1",
+        "created_at": 1627051808,
+        "id": "da32896b-c94d-43d7-8706-98aaf46a3475",
+        "is_primary": true,
+        "phone_number": "5555555555",
+        "phone_type": "mobile",
+        "updated_at": 1627051808
+      }
+    ],
+    "preferred_communication_method": null,
+    "preferred_communication_time_of_day": "evening",
+    "preferred_first_name": null,
+    "race": "white",
+    "ssn_last4": null,
+    "suffix": null,
+    "title": "Dr.",
+    "updated_at": 1648133847,
+    "updated_by": {
+      "_meta": { "_source": "cache", "_type": "user" },
+      "avatar_url": null,
+      "confirmed_at": 1477668863,
+      "created_at": 1477667115,
+      "current_sign_in_at": null,
+      "email": "tooth@fairy.com",
+      "first_name": "Tooth",
+      "full_name": "Tooth Fairy",
+      "id": "5c8348bc-9ae1-4fd0-93ce-daf0e3826e4c",
+      "last_name": "Fairy",
+      "last_name_first_name": "Fairy, Tooth",
+      "timezone": "UTC",
+      "updated_at": 1617131106,
+      "work_title": null
+    }
+  }
+}
